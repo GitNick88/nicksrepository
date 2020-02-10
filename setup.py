@@ -10,7 +10,7 @@ setup(
     long_description=long_description,
     long_description_content_type="text/markdown", # required if using a md file for long desc
     license="MIT",
-    url="https://github.com/bendevera/lambdata-bendevera",
+    url="https://github.com/GitNick88/nicksrepository",
     keywords="data tools pandas",
     packages=find_packages() # ["game_utils"]
 )
